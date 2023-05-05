@@ -2,6 +2,8 @@
 Notes From College
 
 
-Hello Everyone
+Hello Everyone!!
 Welcome to DSATM-Files
+
+This is Repository Compiled together by CSE and ISE students
 
